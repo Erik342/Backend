@@ -57,6 +57,8 @@ public class JavaApplication5 {
         System.out.println(sz1);
        
         be.close();
+        
+        //Második commit
     }
     
 }
